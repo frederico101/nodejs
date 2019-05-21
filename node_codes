@@ -1,0 +1,4 @@
+CODES FOR NODEJS
+init mongod: "mongod --port 27018"
+update project: "npm update"
+INIT MONGOD: "sudo systemctl unmask mongodb"
